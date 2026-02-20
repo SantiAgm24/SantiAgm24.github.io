@@ -4,7 +4,7 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
-<img src="Github Portafolio/oraora.png" width="80px">&nbsp; <h2>***Sobre mi***</h2>
+<img src="Github Portafolio/oraora.png" width="80px">&nbsp;***Sobre mi***
 - Graduado del Colegio Mixto D'Antoni, Retalhuleu
 - Me encanta escuchar música
 - Me encanta escuchar música, hacer deporte y amo la computación
