@@ -2,7 +2,7 @@
 <h1 align="center"> Portafolio Santiago Aguilón M. </a> </h1>
 </div>
 
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<img align="right" width=300px alt="Jojo" src="Github Portafolio/oraora.png" />
 
 <img src="Github Portafolio/oraora.png" width="80px">&nbsp;***Sobre mi***
 - Graduado del Colegio Mixto D'Antoni, Retalhuleu
