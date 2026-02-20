@@ -26,10 +26,19 @@
 </div>
 <br>
 
-<div style="display: flex; justify-content: center; gap: 40px;">
-  <div>🎧 Música</div>
-  <div>⚽ Deporte</div>
-  <div>💻 Programación</div>
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">🎧 Música</td>
+    <td align="center">⚽ Deporte</td>
+    <td align="center">💻 Programación</td>
+  </tr>
+  <tr>
+    <td align="center">Rock, Pop, Clásica</td>
+    <td align="center">Gym, Fútbol</td>
+    <td align="center">Java, Python</td>
+  </tr>
+</table>
+
 </div>
-
-
