@@ -4,10 +4,11 @@
 
 <h2 align="center">Sobre mi</a> </h2>
 
-- Graduado del Colegio Mixto D'Antoni
-- Retalteco **Lol**
+- Graduado del Colegio Mixto D'Antoni, Retalhuleu
+- Me encanta escuchar música
+https://github.com/SahooShuvranshu/Spotify-Live-Banner.git
+cd Spotify-Live-Banner/Source
 - Me encanta escuchar música, hacer deporte y amo la computación
- [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=santiago-gt-8&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=santiago-gt-8)
 - Estoy siguiendo 
 
 <img alt="Night Coding" src="Github Portafolio/oraora.png" align="right"/>
