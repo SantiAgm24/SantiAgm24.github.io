@@ -11,7 +11,7 @@
 - Me encanta escuchar música
 - Me encanta escuchar música, ver series (De todo tipo), hacer deporte y amo la computación y los videojuegos
 - Mas que ser un programador, quiero ser alguien capaz de poder resolver los problemas mediante el razonamiento
-  y poder aplicar los conocimientos en computación para esto.<br><br>
+  y poder aplicar los conocimientos en computación para esto.<br><br><br>
 
 <div align="center">
 <h2 align="center"> Primer mes en la u </a> </h2>
@@ -26,3 +26,34 @@
 </div>
 <br>
 
+<div style="display: flex; justify-content: center; gap: 40px;">
+  <div>🎧 Música</div>
+  <div>⚽ Deporte</div>
+  <div>💻 Programación</div>
+</div>
+
+<table>
+  <tr>
+    <td>🎧 Música</td>
+    <td>⚽ Deporte</td>
+    <td>💻 Programación</td>
+  </tr>
+</table>
+
+<style>
+  table {
+    border-collapse: collapse;
+  }
+  td {
+    padding: 10px 30px;
+    border: none;
+  }
+</style>
+
+<table>
+  <tr>
+    <td>🎧 Música</td>
+    <td>⚽ Deporte</td>
+    <td>💻 Programación</td>
+  </tr>
+</table>
