@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-- Durante el primer mes en la universidad he disfrutado de conocer mucha gente y empezar a crear amiostades.  he aprendido a organizarme mejor, a trabajar diaramente en futuros proyectos y a estudiar más, preparandome para lo que se aproxima. <br><br><br><br>
+- Durante el primer mes en la u he conocido mucha gente nueva y he aprendido a socializar un poco más, es por eso que ahora estoy bastante feliz con mi círculo social, pero no me cierro a nuevas amistades. La universidad me ha demostrado que a partir de ahora debo ser más organizado y me hizo darme cuenta de que el tiempo vale oro y que desaprovechar el tiempo que tengo se vuelve una carga para un futuro trabajo o proyecto. Me he ido familiarizando con la universidad y puedo decir que es muy linda, espaciosa y agradable, tanto que hay días que, a pesar de no tener necesidad de quedarme, aprovecho para estar antes o quedarme luego del final de mis clases del día. En general, mi experiencia durante este primer mes ha sido bastante buena y espero con ansias todo lo que viene. <br><br><br><br>
 
 </div>
 <div align="center">
