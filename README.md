@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center"> Portafolio Santiago Aguilón M. </a> </h1>
 </div>
-<img src="Github Portafolio/BannerPres.jpeg">
+<img src="Github Portafolio/BannerPres1.jpeg">
 
 <img src="Github Portafolio/jojo-me.gif" width="20px">&nbsp;***Sobre mi***
 
