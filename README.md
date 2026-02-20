@@ -8,7 +8,7 @@
 
 - Graduado del Colegio Mixto D'Antoni, Retalhuleu
 - Me encanta escuchar música
-- Me encanta escuchar música, hacer deporte y amo la computación
+- Me encanta escuchar música, ver series (De todo tipo), hacer deporte y amo la computación y los videojuegos
 - Mas que ser un programador, quiero ser alguien capaz de poder resolver los problemas mediante el razonamiento
   y poder aplicar los conocimientos en computación para esto.
 
@@ -18,7 +18,10 @@
 
 <div align="right">
   <img align="Left" width=300px alt="LibroEncantado" src="Github Portafolio/LibroEncantado.gif"/>
-Durante el primer mes en la universidad he disfrutado de conocer mucha gente y empezar a crear amiostades.
+Durante el primer mes en la universidad he disfrutado de conocer mucha gente y 
+empezar a crear amiostades.  he aprendido a organizarme mejor, a trabajar 
+diaramente en futuros proyectos y a estudiar más, preparandome para lo que se 
+aproxima.
 </div>
 
 <br>
