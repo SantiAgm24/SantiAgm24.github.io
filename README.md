@@ -9,6 +9,6 @@
 - Me encanta escuchar música, hacer deporte y amo la computación
 - Estoy siguiendo 
 
-<img alt="jotarojoestar" src="Github Portafolio/oraora.png" align="right"/>
+<img alt="jotarojoestar"  width="200" src="Github Portafolio/oraora.png" align="right"/>
 <br>
 
