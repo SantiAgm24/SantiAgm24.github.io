@@ -2,9 +2,11 @@
 <h1 align="center"> Portafolio Santiago Aguilón M. </a> </h1>
 </div>
 
-<img align="right" width=300px alt="Jojo" src="Github Portafolio/oraora.png" />
+<
 
-<img src="Github Portafolio/jojo-me.gif" width="30px">&nbsp; <h2>***Sobre mi***</h2>
+<img src="Github Portafolio/jojo-me.gif" width="30px">&nbsp;***Sobre mi***
+
+<img align="right" width=300px alt="Jojo" src="Github Portafolio/oraora.png"/>
 
 - Graduado del Colegio Mixto D'Antoni, Retalhuleu
 - Me encanta escuchar música
