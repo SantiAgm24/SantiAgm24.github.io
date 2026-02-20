@@ -5,7 +5,7 @@
 
 ## <img src="Github Portafolio/jojo-me.gif" width="20px">&nbsp; ***Sobre mi***
 
-<img align="right" width=200px alt="Jojo" src="Github Portafolio/oraora.png"/>
+<img align="right" width=300px alt="Jojo" src="Github Portafolio/oraora.png"/>
 
 - Graduado del Colegio Mixto D'Antoni, Retalhuleu
 - Me encanta escuchar música
