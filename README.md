@@ -4,7 +4,7 @@
 
 <img src="Github Portafolio/jojo-me.gif" width="20px">&nbsp;***Sobre mi***
 
-<img align="right" width=300px alt="Jojo" src="Github Portafolio/oraora.png"/>
+<img align="right" width=200px alt="Jojo" src="Github Portafolio/oraora.png"/>
 
 - Graduado del Colegio Mixto D'Antoni, Retalhuleu
 - Me encanta escuchar música
@@ -13,12 +13,11 @@
   y poder aplicar los conocimientos en computación para esto.
 
 <div align="center">
-<h2 align="center"> Portafolio Santiago Aguilón M. </a> </h2>
+<h2 align="center"> Primer mes en la u </a> </h2>
 </div>
 
-<img align="Left" width=300px alt="LibroEncantado" src="Github Portafolio/LibroEncantado.gif"/>
-
 <div align="right">
+  <img align="Left" width=300px alt="LibroEncantado" src="Github Portafolio/LibroEncantado.gif"/>
 Durante el primer mes en la universidad he disfrutado de conocer mucha gente y empezar a crear amiostades.
 </div>
 
