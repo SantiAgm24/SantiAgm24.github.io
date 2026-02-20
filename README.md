@@ -7,7 +7,7 @@
 - Graduado del Colegio Mixto D'Antoni
 - Retalteco **Lol**
 - Me encanta escuchar música, hacer deporte y amo la computación
- [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=TU_USER_ID&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=TU_USER_ID)
+ [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=santiago-gt-8&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=santiago-gt-8)
 - Estoy siguiendo 
 
 <img alt="Night Coding" src="Github Portafolio/oraora.png" align="right"/>
