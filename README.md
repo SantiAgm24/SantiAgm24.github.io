@@ -27,21 +27,22 @@
 <br>
 
 <div align="center">
+<h2 align="center">  </a> </h2>
+</div>
+
+
+<div align="center">
 
 <table>
   <tr>
-    <td align="center" colspan="3"><strong>Mis Intereses</strong></td>
+    <td align="center" colspan="3"><strong>Mis aprendizajes en computación</strong></td>
   </tr>
   <tr>
-    <td align="center">🎧 Música</td>
-    <td align="center">⚽ Deporte</td>
-    <td align="center">💻 Programación</td>
+    <td align="center">Texto</td>
+    <td align="center">Texto</td>
+    <td align="center">texto</td>
   </tr>
-  <tr>
-    <td align="center">Rock, Pop, Clásica</td>
-    <td align="center">Gym, Fútbol</td>
-    <td align="center">Java, Python</td>
-  </tr>
+
 </table>
 
 </div>
