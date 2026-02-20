@@ -3,7 +3,7 @@
 </div>
 <img src="Github Portafolio/BannerPres1.jpeg">
 
-<img src="Github Portafolio/jojo-me.gif" width="20px">&nbsp; ## ***Sobre mi***
+## <img src="Github Portafolio/jojo-me.gif" width="20px">&nbsp; ***Sobre mi***
 
 <img align="right" width=200px alt="Jojo" src="Github Portafolio/oraora.png"/>
 
