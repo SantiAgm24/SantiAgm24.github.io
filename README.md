@@ -30,6 +30,9 @@
 
 <table>
   <tr>
+    <td align="center" colspan="3"><strong>Mis Intereses</strong></td>
+  </tr>
+  <tr>
     <td align="center">🎧 Música</td>
     <td align="center">⚽ Deporte</td>
     <td align="center">💻 Programación</td>
