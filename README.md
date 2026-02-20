@@ -32,28 +32,4 @@
   <div>💻 Programación</div>
 </div>
 
-<table>
-  <tr>
-    <td>🎧 Música</td>
-    <td>⚽ Deporte</td>
-    <td>💻 Programación</td>
-  </tr>
-</table>
 
-<style>
-  table {
-    border-collapse: collapse;
-  }
-  td {
-    padding: 10px 30px;
-    border: none;
-  }
-</style>
-
-<table>
-  <tr>
-    <td>🎧 Música</td>
-    <td>⚽ Deporte</td>
-    <td>💻 Programación</td>
-  </tr>
-</table>
