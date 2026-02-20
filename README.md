@@ -20,7 +20,7 @@
 - Durante el primer mes en la universidad he disfrutado de conocer mucha gente y empezar a crear amiostades.  he aprendido a organizarme mejor, a trabajar diaramente en futuros proyectos y a estudiar más, preparandome para lo que se aproxima. <br><br><br><br>
 
 </div>
-<img align="right" width=200px alt="LibroEncantado" src="Github Portafolio/LibroEncantado.gif"/>
+<img align="center" width=200px alt="LibroEncantado" src="Github Portafolio/LibroEncantado.gif"/>
 
 <br>
 
