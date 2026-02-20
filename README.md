@@ -38,11 +38,20 @@
     <td align="center" colspan="3"><strong>Mis aprendizajes en computación</strong></td>
   </tr>
   <tr>
-    <td align="center">Texto</td>
-    <td align="center">Texto</td>
-    <td align="center">texto</td>
+    <td align="center">El pensamiento lógico</td>
+    <td align="center">Identificación de problemas</td>
+    <td align="center">Trabajo en equipo</td>
   </tr>
-
+  <tr>
+    <td align="center">Para poder cumplir con nuestras metas o sobrepasar los desafios que se nos presentan siempre hay que ser capaces de buscar la manera sencilla y mas lógica de resolverlos.</td>
+    <td align="center">Para poder resolver una problematica hay que identificarla a fondo, comprender todo lo que abarca y saber que es lo que la causa, esto puede ayudar a tener una mejor idea a la hora de resolverla. </td>
+    <td align="center">Para llegar lejos, un equipo es esencial, así que tener gente en quien confiar para realizar trabajos y proyectos es fundamental. Un equipo puede facilitar un trabajo complejo y dar apoyo en las partes en las que alguien este teniendo complicaciones.</td>
+  </tr>
+ <tr>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
 </table>
 
 </div>
