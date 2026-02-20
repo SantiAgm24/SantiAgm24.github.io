@@ -22,7 +22,7 @@ empezar a crear amiostades.  he aprendido a organizarme mejor, a trabajar
 diaramente en futuros proyectos y a estudiar más, preparandome para lo que se 
 aproxima.
 
-<img align="Left" width=200px alt="LibroEncantado" src="Github Portafolio/LibroEncantado.gif"/>
+<img width=200px alt="LibroEncantado" src="Github Portafolio/LibroEncantado.gif"/>
 
 </div>
 
