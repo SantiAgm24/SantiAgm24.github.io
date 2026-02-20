@@ -1,6 +1,7 @@
 <div align="center">
 <h1 align="center"> Portafolio Santiago Aguilón M. </a> </h1>
 </div>
+<img src="WhatsApp Image 2026-02-20 at 4.21.54 PM.jpeg">
 
 <img src="Github Portafolio/jojo-me.gif" width="20px">&nbsp;***Sobre mi***
 
