@@ -6,11 +6,9 @@
 
 - Graduado del Colegio Mixto D'Antoni, Retalhuleu
 - Me encanta escuchar música
-https://github.com/SahooShuvranshu/Spotify-Live-Banner.git
-cd Spotify-Live-Banner/Source
 - Me encanta escuchar música, hacer deporte y amo la computación
 - Estoy siguiendo 
 
-<img alt="Night Coding" src="Github Portafolio/oraora.png" align="right"/>
+<img alt="jotarojoestar" src="Github Portafolio/oraora.png" align="right"/>
 <br>
 
