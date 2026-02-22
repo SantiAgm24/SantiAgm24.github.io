@@ -48,9 +48,9 @@
     <td align="center">Para llegar lejos, un equipo es esencial, así que tener gente en quien confiar para realizar trabajos y proyectos es fundamental. Un equipo puede facilitar un trabajo complejo y dar apoyo en las partes en las que alguien este teniendo complicaciones.</td>
   </tr>
  <tr>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center"><img align="center" width=300px alt="Captura1" src="Github Portafolio/Razonamiento.png"/></td>
+    <td align="center"><img align="center" width=300px alt="Captura2" src="Github Portafolio/DefinicionProblema.png"/></td>
+    <td align="center"><img align="center" width=300px alt="Captura3" src="Github Portafolio/TrabajoEnEquipo.png"/></td>
   </tr>
 </table>
 
