@@ -49,8 +49,8 @@
   </tr>
  <tr>
     <td align="center"><img align="center" width=300px alt="Captura1" src="Github Portafolio/Razonamiento.png"/></td>
-    <td align="center"><img align="center" width=300px alt="Captura2" src="Github Portafolio/DefincionProblema.png.png"/></td>
-    <td align="center"><img align="center" width=300px alt="Captura3" src="Github Portafolio/TabajoEnEquipo.png.png"/></td>
+    <td align="center"><img align="center" width=300px alt="Captura2" src="Github Portafolio/DefincionProblema.png"/></td>
+    <td align="center"><img align="center" width=300px alt="Captura3" src="Github Portafolio/TabajoEnEquipo.png"/></td>
   </tr>
 </table>
 
