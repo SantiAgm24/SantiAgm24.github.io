@@ -53,5 +53,14 @@
     <td align="center"><img align="center" width=300px alt="Captura3" src="Github Portafolio/TabajoEnEquipo.png"/></td>
   </tr>
 </table>
+<br>
+<div align="center">
+## <img src="Github Portafolio/jojo-me.gif" width="20px">&nbsp; ***Medio ciclo en Intro***
+</div>
+- Graduado del Colegio Mixto D'Antoni, Retalhuleu
+- Me encanta escuchar música
+- Me encanta escuchar música, ver series (De todo tipo), hacer deporte y amo la computación y los videojuegos
+- Mas que ser un programador, quiero ser alguien capaz de poder resolver los problemas mediante el razonamiento
+  y poder aplicar los conocimientos en computación para esto.<br><br><br>
 
 </div>
