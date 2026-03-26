@@ -58,13 +58,48 @@
 <div align="center">
 <h2 align="center"><img src="Github Portafolio/jojo-me.gif" width="20px">&nbsp; Medio ciclo en Intro </a> </h2>
 </div>
--¿Qué salió bien?
+<table>
+  <tr>
+    <td align="center" colspan="3"><strong>¿Qué salió bien?</strong></td>
+  </tr>
+  <tr>
+    <td align="center">El pensamiento lógico</td>
+    <td align="center">Identificación de problemas</td>
+    <td align="center">Trabajo en equipo</td>
+  </tr>
+    </table>
+    
+<table>
+  <tr>
+    <td align="center" colspan="3"><strong>¿Qué no salió tan bien?</strong></td>
+  </tr>
+  <tr>
+    <td align="center">El pensamiento lógico</td>
+    <td align="center">Identificación de problemas</td>
+    <td align="center">Trabajo en equipo</td>
+  </tr>
+    </table>
 
--¿Qué no salió tan bien?
-
--¿Qué he aprendido?
-
--¿Que me deja con dudas?
-
+<table>
+  <tr>
+    <td align="center" colspan="3"><strong>¿Qué he aprendido?</strong></td>
+  </tr>
+  <tr>
+    <td align="center">El pensamiento lógico</td>
+    <td align="center">Identificación de problemas</td>
+    <td align="center">Trabajo en equipo</td>
+  </tr>
+    </table>
+    
+<table>
+  <tr>
+    <td align="center" colspan="3"><strong>-¿Que me deja con dudas?</strong></td>
+  </tr>
+  <tr>
+    <td align="center">El pensamiento lógico</td>
+    <td align="center">Identificación de problemas</td>
+    <td align="center">Trabajo en equipo</td>
+  </tr>
+    </table>
 <br><br><br>
 
