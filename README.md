@@ -84,7 +84,7 @@
     
 <table>
   <tr>
-    <td align="center" colspan="3"><strong>¿Qué no salió tan bien?</strong></td>
+    <td align="center" colspan="7"><strong>¿Qué no salió tan bien?</strong></td>
   </tr>
   <tr>
     <td align="center">Álgebra y geometría analítica</td>
@@ -108,7 +108,7 @@
 
 <table>
   <tr>
-    <td align="center" colspan="3"><strong>¿Qué he aprendido?</strong></td>
+    <td align="center" colspan="7"><strong>¿Qué he aprendido?</strong></td>
   </tr>
   <tr>
     <td align="center">Álgebra y geometría analítica</td>
@@ -132,7 +132,7 @@
     
 <table>
   <tr>
-    <td align="center" colspan="3"><strong>-¿Que me deja con dudas?</strong></td>
+    <td align="center" colspan="7"><strong>-¿Que me deja con dudas?</strong></td>
   </tr>
   <tr>
     <td align="center">Álgebra y geometría analítica</td>
