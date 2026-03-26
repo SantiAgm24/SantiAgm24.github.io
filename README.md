@@ -81,7 +81,7 @@
     <td align="center"></td>
   </tr>
     </table>
-    
+    <br>
 <table>
   <tr>
     <td align="center" colspan="7"><strong>¿Qué no salió tan bien?</strong></td>
@@ -105,7 +105,7 @@
     <td align="center"></td>
   </tr>
     </table>
-
+<br>
 <table>
   <tr>
     <td align="center" colspan="7"><strong>¿Qué he aprendido?</strong></td>
@@ -129,7 +129,7 @@
     <td align="center"></td>
   </tr>
     </table>
-    
+    <br>
 <table>
   <tr>
     <td align="center" colspan="7"><strong>-¿Que me deja con dudas?</strong></td>
