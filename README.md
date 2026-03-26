@@ -60,12 +60,25 @@
 </div>
 <table>
   <tr>
-    <td align="center" colspan="3"><strong>¿Qué salió bien?</strong></td>
+    <td align="center" colspan="7"><strong>¿Qué salió bien?</strong></td>
   </tr>
   <tr>
-    <td align="center">El pensamiento lógico</td>
-    <td align="center">Identificación de problemas</td>
-    <td align="center">Trabajo en equipo</td>
+    <td align="center">Álgebra y geometría analítica</td>
+    <td align="center">Algoritmos y programación básica</td>
+    <td align="center">Ciencias de la vida</td>
+    <td align="center">Coaching para la excelencia</td>
+    <td align="center">Comunicación efectiva</td>
+    <td align="center">Introducción a Compu</td>
+    <td align="center">Química general</td>
+  </tr>
+  <tr>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
   </tr>
     </table>
     
@@ -74,9 +87,22 @@
     <td align="center" colspan="3"><strong>¿Qué no salió tan bien?</strong></td>
   </tr>
   <tr>
-    <td align="center">El pensamiento lógico</td>
-    <td align="center">Identificación de problemas</td>
-    <td align="center">Trabajo en equipo</td>
+    <td align="center">Álgebra y geometría analítica</td>
+    <td align="center">Algoritmos y programación básica</td>
+    <td align="center">Ciencias de la vida</td>
+    <td align="center">Coaching para la excelencia</td>
+    <td align="center">Comunicación efectiva</td>
+    <td align="center">Introducción a Compu</td>
+    <td align="center">Química general</td>
+  </tr>
+  <tr>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
   </tr>
     </table>
 
@@ -85,9 +111,22 @@
     <td align="center" colspan="3"><strong>¿Qué he aprendido?</strong></td>
   </tr>
   <tr>
-    <td align="center">El pensamiento lógico</td>
-    <td align="center">Identificación de problemas</td>
-    <td align="center">Trabajo en equipo</td>
+    <td align="center">Álgebra y geometría analítica</td>
+    <td align="center">Algoritmos y programación básica</td>
+    <td align="center">Ciencias de la vida</td>
+    <td align="center">Coaching para la excelencia</td>
+    <td align="center">Comunicación efectiva</td>
+    <td align="center">Introducción a Compu</td>
+    <td align="center">Química general</td>
+  </tr>
+  <tr>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
   </tr>
     </table>
     
@@ -96,9 +135,22 @@
     <td align="center" colspan="3"><strong>-¿Que me deja con dudas?</strong></td>
   </tr>
   <tr>
-    <td align="center">El pensamiento lógico</td>
-    <td align="center">Identificación de problemas</td>
-    <td align="center">Trabajo en equipo</td>
+    <td align="center">Álgebra y geometría analítica</td>
+    <td align="center">Algoritmos y programación básica</td>
+    <td align="center">Ciencias de la vida</td>
+    <td align="center">Coaching para la excelencia</td>
+    <td align="center">Comunicación efectiva</td>
+    <td align="center">Introducción a Compu</td>
+    <td align="center">Química general</td>
+  </tr>
+  <tr>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
   </tr>
     </table>
 <br><br><br>
