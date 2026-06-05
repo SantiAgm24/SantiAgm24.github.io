@@ -213,7 +213,7 @@
 ### Evidencia
 
 <!-- Agrega imágenes, enlaces o capturas -->
-<img width="600px" src="ProyectoFinalDeLaboratorio.png"/>
+<img width="600px" src="Github Portafolio/ProyectoFinalDeLaboratorio.png"/>
 
 ### Metacognición
 
