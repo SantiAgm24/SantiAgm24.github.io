@@ -198,33 +198,28 @@
 
 <br><br>
 
-## Proyecto o trabajo de otro curso
+## Batería Casera con papas
 
-### Curso
-
-> ESCRIBE AQUÍ EL NOMBRE DEL CURSO
+### Química General
 
 ### Descripción
 
-> EXPLICA AQUÍ EL TRABAJO O PROYECTO
+> El trabajo fue acerca de como hacer una batería casera a base de papas
 
 ### ¿Qué aprendí?
 
-> ESCRIBE AQUÍ TU REFLEXIÓN
+> Como funcionan las propiedades electroquímicas de las papas usando diferntes objetos, como los son el zinc y el cobre, haciendo estos de ánodo y cátodo
 
 ### Evidencia
 
 <!-- Agrega imágenes, enlaces o capturas -->
-<img width="600px" src="RUTA_DE_TU_IMAGEN"/>
+<img width="600px" src="Proyecto final de laboratorio.png"/>
 
 ### Metacognición
 
 **Nivel alcanzado según la Taxonomía de Bloom:**  
-> ESCRIBE AQUÍ EL NIVEL
+> Llegué al nivel de aplicación porque pude aplicar lo que aprendí durante el curso para poder hacer la batería, pero aún así tuve problemas para poder entender el funcionamiento real de la batería.
 
-**¿Por qué considero que alcancé ese nivel?**
-
-> ESCRIBE AQUÍ TU REFLEXIÓN
 
 <br><br>
 
