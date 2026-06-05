@@ -160,35 +160,13 @@
 -----------------------------------------------------------------------------------------------------
 
 <div align="center">
-<h2 align="center"><img src="Github Portafolio/jojo-me.gif" width="20px">&nbsp; Final de semestre en Intro </a> </h2>
-<h3 align="center"> 💻 Mi concepción de la Ciencia de la Computación </h3>
+<h1 align="center"><img src="Github Portafolio/jojo-me.gif" width="20px">&nbsp; Final de semestre en Intro </a> </h1>
+<h2 align="center"> 💻 Mi concepción de la Ciencia de la Computación </h2>
 </div>
 
-### ¿Qué es para mí la Ciencia de la Computación?
 
-> ESCRIBE AQUÍ TU REFLEXIÓN
+> 
 
-<br>
-
-### ¿Qué hace un científico de la computación?
-
-> ESCRIBE AQUÍ TU REFLEXIÓN
-
-<br>
-
-### ¿Cómo me veo trabajando en este campo?
-
-> ESCRIBE AQUÍ TU REFLEXIÓN
-
-<br>
-
-### Metacognición
-
-**Nivel alcanzado según la Taxonomía de Bloom:**  
-> ESCRIBE AQUÍ EL NIVEL (Recordar, Comprender, Aplicar, Analizar, Evaluar o Crear)
-
-**Reflexión sobre mi aprendizaje:**  
-> ESCRIBE AQUÍ TU REFLEXIÓN
 
 <br><br>
 
