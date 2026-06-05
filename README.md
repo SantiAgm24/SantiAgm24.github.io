@@ -155,3 +155,201 @@
     </table>
 <br><br><br>
 
+<br><br>
+
+-----------------------------------------------------------------------------------------------------
+
+<div align="center">
+<h2 align="center"> 💻 Mi concepción de la Ciencia de la Computación </h2>
+</div>
+
+### ¿Qué es para mí la Ciencia de la Computación?
+
+> ESCRIBE AQUÍ TU REFLEXIÓN
+
+<br>
+
+### ¿Qué hace un científico de la computación?
+
+> ESCRIBE AQUÍ TU REFLEXIÓN
+
+<br>
+
+### ¿Cómo me veo trabajando en este campo?
+
+> ESCRIBE AQUÍ TU REFLEXIÓN
+
+<br>
+
+### Metacognición
+
+**Nivel alcanzado según la Taxonomía de Bloom:**  
+> ESCRIBE AQUÍ EL NIVEL (Recordar, Comprender, Aplicar, Analizar, Evaluar o Crear)
+
+**Reflexión sobre mi aprendizaje:**  
+> ESCRIBE AQUÍ TU REFLEXIÓN
+
+<br><br>
+
+-----------------------------------------------------------------------------------------------------
+
+<div align="center">
+<h2 align="center"> 🏆 Logros y trabajos desarrollados durante el ciclo </h2>
+</div>
+
+## Proyecto o trabajo de Introducción a la Computación
+
+### Descripción
+
+> EXPLICA AQUÍ EL TRABAJO O PROYECTO
+
+### ¿Qué aprendí?
+
+> ESCRIBE AQUÍ TU REFLEXIÓN
+
+### Evidencia
+
+<!-- Agrega imágenes, enlaces o capturas -->
+<img width="600px" src="RUTA_DE_TU_IMAGEN"/>
+
+### Metacognición
+
+**Nivel alcanzado según la Taxonomía de Bloom:**  
+> ESCRIBE AQUÍ EL NIVEL
+
+**¿Por qué considero que alcancé ese nivel?**
+
+> ESCRIBE AQUÍ TU REFLEXIÓN
+
+<br><br>
+
+## Proyecto o trabajo de otro curso
+
+### Curso
+
+> ESCRIBE AQUÍ EL NOMBRE DEL CURSO
+
+### Descripción
+
+> EXPLICA AQUÍ EL TRABAJO O PROYECTO
+
+### ¿Qué aprendí?
+
+> ESCRIBE AQUÍ TU REFLEXIÓN
+
+### Evidencia
+
+<!-- Agrega imágenes, enlaces o capturas -->
+<img width="600px" src="RUTA_DE_TU_IMAGEN"/>
+
+### Metacognición
+
+**Nivel alcanzado según la Taxonomía de Bloom:**  
+> ESCRIBE AQUÍ EL NIVEL
+
+**¿Por qué considero que alcancé ese nivel?**
+
+> ESCRIBE AQUÍ TU REFLEXIÓN
+
+<br><br>
+
+-----------------------------------------------------------------------------------------------------
+
+<div align="center">
+<h2 align="center"> 📚 ¿Qué me llevo de este primer ciclo? </h2>
+</div>
+
+### Relaciones y experiencias con mis compañeros
+
+> ESCRIBE AQUÍ TU REFLEXIÓN
+
+<br>
+
+### Cambios en mis hábitos de estudio
+
+> ESCRIBE AQUÍ TU REFLEXIÓN
+
+<br>
+
+### Objetivos para el futuro
+
+> ESCRIBE AQUÍ TU REFLEXIÓN
+
+<br>
+
+### Otros aprendizajes importantes
+
+> ESCRIBE AQUÍ TU REFLEXIÓN
+
+<br><br>
+
+-----------------------------------------------------------------------------------------------------
+
+<div align="center">
+<h2 align="center"> ✨ Reflexión final del ciclo </h2>
+</div>
+
+<table>
+  <tr>
+    <td align="center"><strong>¿Qué salió bien?</strong></td>
+  </tr>
+  <tr>
+    <td>
+      ESCRIBE AQUÍ TU REFLEXIÓN GENERAL DEL CICLO
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><strong>¿Qué no salió tan bien?</strong></td>
+  </tr>
+  <tr>
+    <td>
+      ESCRIBE AQUÍ TU REFLEXIÓN GENERAL DEL CICLO
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><strong>¿Qué he aprendido?</strong></td>
+  </tr>
+  <tr>
+    <td>
+      ESCRIBE AQUÍ TU REFLEXIÓN GENERAL DEL CICLO
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><strong>¿Qué me deja con dudas?</strong></td>
+  </tr>
+  <tr>
+    <td>
+      ESCRIBE AQUÍ TU REFLEXIÓN GENERAL DEL CICLO
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### Conclusión
+
+> ESCRIBE AQUÍ UN RESUMEN GENERAL DE TU EXPERIENCIA DURANTE EL PRIMER CICLO.
+
+### Metacognición final
+
+**Nivel alcanzado según la Taxonomía de Bloom:**  
+> ESCRIBE AQUÍ EL NIVEL
+
+**Justificación:**
+
+> ESCRIBE AQUÍ TU REFLEXIÓN
