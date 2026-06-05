@@ -226,37 +226,37 @@
 -----------------------------------------------------------------------------------------------------
 
 <div align="center">
-<h2 align="center"> 📚 ¿Qué me llevo de este primer ciclo? </h2>
+<h2 align="center"> ¿Qué me llevo de este primer ciclo? </h2>
 </div>
 
 ### Relaciones y experiencias con mis compañeros
 
-> ESCRIBE AQUÍ TU REFLEXIÓN
+> Conocí muchisima gente nueva, amigos increibles y gente en la quien confiar cuando todo vata mal. Gracias a este primer ciclo pude conseguir mas confianza en mi mismo y poder hablar con los demas para poder organizar el trabajo.
 
 <br>
 
 ### Cambios en mis hábitos de estudio
 
-> ESCRIBE AQUÍ TU REFLEXIÓN
+> He sido mucho mas responsable con el estudio y he estudiado con más profundidad los temas que se acercaban para poder entender de mejor manera los temas que se impartian en clase.
 
 <br>
 
 ### Objetivos para el futuro
 
-> ESCRIBE AQUÍ TU REFLEXIÓN
+> Para el próximo ciclo quiero alcanzar un promedio mucho mayor al obtenido durante este semestre, porque a pesar de haber sido muy bueno, si quiero ser mucho mejor debo de ser mucho mas responsable y aprender mas de lo que he aprendido ahora.
 
 <br>
 
 ### Otros aprendizajes importantes
 
-> ESCRIBE AQUÍ TU REFLEXIÓN
+> Aprendí mucho sobre como funciona la vida y los organismos, así como aprendí a como exponer de mejor manera mis opiniones e ideas.
 
 <br><br>
 
 -----------------------------------------------------------------------------------------------------
 
 <div align="center">
-<h2 align="center"> ✨ Reflexión final del ciclo </h2>
+<h2 align="center"> Reflexión final del ciclo </h2>
 </div>
 
 <table>
@@ -265,7 +265,7 @@
   </tr>
   <tr>
     <td>
-      ESCRIBE AQUÍ TU REFLEXIÓN GENERAL DEL CICLO
+      Los trabajos individuales y las amistades son lo que mejor salió este ciclo, pues pude ser responsable y entregar los trabajos y logre hacerme de un grupo de amigos a los quienes acudir si lo necesito.
     </td>
   </tr>
 </table>
@@ -278,7 +278,7 @@
   </tr>
   <tr>
     <td>
-      ESCRIBE AQUÍ TU REFLEXIÓN GENERAL DEL CICLO
+      Aunque los proyectos salieron bien en general, cuando se trabaja en equipo a veces pueden haber ciertos problemas con la responsabilidad y las entregas, pero aunque nunca salió mal, pudo haber sido mucho mejor.
     </td>
   </tr>
 </table>
@@ -291,7 +291,7 @@
   </tr>
   <tr>
     <td>
-      ESCRIBE AQUÍ TU REFLEXIÓN GENERAL DEL CICLO
+      Aprendí a socializar mejor, a exponer mis ideas, a pensar de manera lógica rápidamente, a poder resolver ecuaciones matemáticas de mejor manera y a crear código mejor estructurado.
     </td>
   </tr>
 </table>
@@ -304,7 +304,7 @@
   </tr>
   <tr>
     <td>
-      ESCRIBE AQUÍ TU REFLEXIÓN GENERAL DEL CICLO
+      Mis mayores dudas ahora son con la programación en general y lo que se avecina con el inicio del siguiente ciclo, pues hay muchos lenguajes y códigos que no conozco, así que aunque me da miedo como será lo que se viene, estoy emocionado por aprender mucho más
     </td>
   </tr>
 </table>
@@ -313,13 +313,9 @@
 
 ### Conclusión
 
-> ESCRIBE AQUÍ UN RESUMEN GENERAL DE TU EXPERIENCIA DURANTE EL PRIMER CICLO.
+> Fue un gran inicio de carrera, que me impulsa a seguir y me inspira a estudiar mucho más y conocer gente nueva que me pueda apoyar con lo que vendrá en el futuro
 
 ### Metacognición final
 
 **Nivel alcanzado según la Taxonomía de Bloom:**  
-> ESCRIBE AQUÍ EL NIVEL
-
-**Justificación:**
-
-> ESCRIBE AQUÍ TU REFLEXIÓN
+> En general llegué el nivel de aplicación pues aprendí y memorice mucha información útil para resolver distintos problemas, para luego poder aplicarlos en una situación real, pero aún me cuesta comprender en su totalidad muchos de esos procesos.
