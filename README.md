@@ -160,6 +160,7 @@
 -----------------------------------------------------------------------------------------------------
 
 <div align="center">
+<h2 align="center"><img src="Github Portafolio/jojo-me.gif" width="20px">&nbsp; Final de semestre en Intro </a> </h2>
 <h2 align="center"> 💻 Mi concepción de la Ciencia de la Computación </h2>
 </div>
 
