@@ -165,7 +165,7 @@
 </div>
 
 
-> 
+> He aprendido mucho acerca de como trabaja un cientifico de la computación y el trabajo que realiza. Me gusta poder resolver problemas mediante el uso de la lógica aplicada a la informática, así como me emociona poder crear programas o algoritmos que funcionen para resolver problemas. Con cada paso que avanzo con la computación entiendo mucho mejor el cómo será trabajar de esto y me gusta mucho el futuro que me espera, pues disfruto mucho de todo esto.
 
 
 <br><br>
@@ -176,29 +176,25 @@
 <h2 align="center"> 🏆 Logros y trabajos desarrollados durante el ciclo </h2>
 </div>
 
-## Proyecto o trabajo de Introducción a la Computación
+## Canción con EarSketch
 
 ### Descripción
 
-> EXPLICA AQUÍ EL TRABAJO O PROYECTO
+> Haciendo uso de EarSketch pude crear junto a mi equipo una canción a base de código. Fue increible poder modificar cada aspecto de la canción código y el resultado final fue bastante bueno.
 
 ### ¿Qué aprendí?
 
-> ESCRIBE AQUÍ TU REFLEXIÓN
+> Aprendí a usar plataformas que usan Python como lenguaje base y a usar los códigos con los que modifica la música, así como pude realizar mejor la estructura de un código usando la definición de funciones y ciclos para hacer las melodías mas fácilmente.
 
 ### Evidencia
 
-<!-- Agrega imágenes, enlaces o capturas -->
-<img width="600px" src="RUTA_DE_TU_IMAGEN"/>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2318753873&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/santiago-aguilon" title="Santi.agm_" target="_blank" style="color: #cccccc; text-decoration: none;">Santi.agm_</a> · <a href="https://soundcloud.com/santiago-aguilon/cargando-al-cien" title="Cargando al cien*" target="_blank" style="color: #cccccc; text-decoration: none;">Cargando al cien*</a></div>
 
 ### Metacognición
 
 **Nivel alcanzado según la Taxonomía de Bloom:**  
-> ESCRIBE AQUÍ EL NIVEL
+> Según mi criterio llegué al nivel de análisis pues pude comprender y memorizar los códigos necesarios, pude aplicarlos y por último analizar como funcionaban y mejorarlos a base de lo visto.
 
-**¿Por qué considero que alcancé ese nivel?**
-
-> ESCRIBE AQUÍ TU REFLEXIÓN
 
 <br><br>
 
